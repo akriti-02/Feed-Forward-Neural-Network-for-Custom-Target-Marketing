@@ -45,11 +45,3 @@ The model's performance is assessed using:
 The FFNN model demonstrates strong accuracy, achieving an F1-score of 97.69% and a recall of 96.24%. Evaluation plots show robust learning with no signs of overfitting, and insights from feature analysis suggest valuable applications in marketing segmentation.
 
 
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify any sections as needed.
